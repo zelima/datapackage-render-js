@@ -12,7 +12,11 @@
     "commander": "",
     "datapackage-read": ">=0.2.2",
     "marked": "",
-    "nunjucks": ""
+    "nunjucks": "",
+    "vega": "",
+    "vega-lite": "1.0.8",
+    "csv-parse": "",
+    "stream-transform": ""
   },
   "devDependencies": {
     "mocha": ""
